@@ -1,0 +1,11 @@
+maior_peso = float('-inf') # Essa variável vai ter o menor valor possível, para não ocorrer erro.
+menor_peso = float('inf') # Essa variável vai ter o maior valor possível, para não ocorrer erro.
+
+A função sum(), serve para somar todos os valores de uma lista sem usar uma variável contador.
+
+from time import sleep, esse comando cria um atraso no código, é usado assim : sleep(1) // Atraso de 1 segundo
+
+Funções é como uma biblioteca que você mesmo pode criar para facilitar a sua vida enquanto você program.
+
+O comando "continue" quando estiver em um while ele joga para o começo da execução novamente.
+
